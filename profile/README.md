@@ -2,23 +2,14 @@
 
 Ascendara is a desktop application that simplifies downloading, managing, and playing pre-installed games. The game library is powered by a custom webscraper, currently featuring games from [STEAMRIP](https://ascendara.app/sources/steamrip) and [FitGirl](https://ascendara.app/sources/fitgirl), with plans to expand to more sources.
 
-## ✨ Core Features
-
 #### Explore Ascendara's most powerful features on [this comparison chart](https://ascendara.app/learn-more#comparison)
-
-- 🚀 **2-Click Downloads**: Lightning-fast downloads without browser interaction
-- 🌐 **Browser Integration**: One-click game downloads and management
-- 🎨 **Theme Customization**: Beautiful, modern themes
-- 🕰 **Ascendara Timemachine**: Access and download previous game versions
-- 👤 **Custom Username**: For online game cracks with Goldberg
-- 🌍 **105 Languages**: Full interface translation support ([see full list](https://github.com/Ascendara/ascendara#-features))
 
 ## 📚 Organization Repositories
 
 - [**Ascendara**](https://github.com/ascendara/ascendara): The complete source code for Ascendara
 - [**Installer**](https://github.com/ascendara/installer): The source code for the python based GUI app installer
-- [**Documentation**](https://github.com/ascendara/docs): The community-editable repository for Ascendara's documentation (official docs at [ascendara.app/docs](https://ascendara.app/docs))
 - [**Extension**](https://github.com/ascendara/extension): A lightweight browser extension that enhances your Ascendara experience
+- [**Documentation**](https://github.com/ascendara/docs): The community-editable repository for Ascendara's documentation (official docs at [ascendara.app/docs](https://ascendara.app/docs))
 
 ## 🤝 Contributing
 
