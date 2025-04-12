@@ -15,7 +15,7 @@ Ascendara is a desktop application that simplifies downloading, managing, and pl
 
 Contributing to Ascendara is the best way to get your desired features, bug fixes, or improvements into the official build! When your contribution is accepted, your changes will be credited with your GitHub username in the [Ascendara changelogs](https://ascendara.app/changelog).
 
-Check out all the amazing people who have already contributed on the [contributors page](https://github.com/Ascendara/ascendara/graphs/contributors).
+Check out all the amazing people who have already contributed on the [dedicated contributors page](https://ascendara.app/contributors)!
 
 ### Getting Started
 
