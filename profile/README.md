@@ -4,9 +4,10 @@ Ascendara is a desktop application that simplifies downloading, managing, and pl
 
 ## 📚 Organization Repositories
 
-- [**Ascendara**](https://github.com/ascendara/ascendara): The complete source code for Ascendara
-- [**Installer**](https://github.com/ascendara/installer): The source code for the python based GUI app installer
-- [**Extension**](https://github.com/ascendara/extension): A lightweight browser extension that enhances your Ascendara experience
+- [**Ascendara**](https://github.com/ascendara/ascendara): The core platform powering everything behind Ascendara
+- [**Webview**](https://github.com/ascendara/webview): A remote-control web app for managing downloads and staying connected with Ascend friends
+- [**Installer**](https://github.com/ascendara/installer): A Python-based GUI installer that gets Ascendara up and running quickly
+- [**Extension**](https://github.com/ascendara/extension): A lightweight browser extension that adds convenience and extra features to Ascendara
 - [**Documentation**](https://github.com/ascendara/docs): The community-editable repository for Ascendara's documentation (official docs at [ascendara.app/docs](https://ascendara.app/docs))
 
 ## 🤝 Contributing
