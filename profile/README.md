@@ -1,7 +1,3 @@
-## 🎮 About
-
-Ascendara is a desktop application that simplifies downloading, managing, and playing pre-installed games. The game library is powered by a custom webscraper, currently featuring games from [STEAMRIP](https://ascendara.app/sources/steamrip) and [FitGirl](https://ascendara.app/sources/fitgirl), with plans to expand to more sources.
-
 ## 📚 Organization Repositories
 
 - [**Ascendara**](https://github.com/ascendara/ascendara): The core platform powering everything behind Ascendara
